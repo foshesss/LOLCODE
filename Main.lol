@@ -42,26 +42,6 @@ TLDR
 
 HAI 1.2
 
-    HOW IZ I FIBONACCI YR N
-
-        BTW N <= 0, return 0
-
-        N, WTF?
-            OMG 0
-                FOUND YR 0
-            OMG 1
-                FOUND YR 1
-            OMGWTF
-                I HAS A VAR0 ITZ I IZ FIBONACCI YR DIFF OF N AN 1 MKAY
-                I HAS A VAR1 ITZ I IZ FIBONACCI YR DIFF OF N AN 2 MKAY
-                VISIBLE SUM OF VAR0 AN VAR1
-
-                FOUND YR SUM OF I IZ FIBONACCI YR DIFF OF N AN 1 MKAY AN I IZ FIBONACCI YR DIFF OF N AN 2 MKAY
-        OIC
-
-        VISIBLE "I SHOULD NOT BE HERE"
-    IF U SAY SO
-
     IM IN YR LOOP
         I HAS A INPUT
         VISIBLE "PLZ ENTER COLOR: "!
@@ -81,7 +61,5 @@ HAI 1.2
         OIC
     IM OUTTA YR LOOP
     
-    I HAS A VAR ITZ I IZ FIBONACCI YR 2 MKAY
-    VISIBLE VAR
     VISIBLE "OKAY LOGGING OUT. KTHXBYE"
 KTHXBYE
