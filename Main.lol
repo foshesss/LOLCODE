@@ -62,7 +62,6 @@ HAI 1.2
         VISIBLE "I SHOULD NOT BE HERE"
     IF U SAY SO
 
-OBTW
     IM IN YR LOOP
         I HAS A INPUT
         VISIBLE "PLZ ENTER COLOR: "!
@@ -81,8 +80,6 @@ OBTW
             YA RLY, GTFO
         OIC
     IM OUTTA YR LOOP
-
-TLDR
     
     I HAS A VAR ITZ I IZ FIBONACCI YR 2 MKAY
     VISIBLE VAR
