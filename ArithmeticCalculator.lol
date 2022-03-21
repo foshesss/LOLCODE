@@ -43,6 +43,8 @@ HAI 1.2
         I HAS A OPERATION
         I HAS A NUM2
 
+        NUM1 R
+
 
         GIMMEH RESPONSE1
         GIMMEH RESPONSE2
